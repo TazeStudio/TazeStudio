@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TazeStudio
+- 👀 I’m interested in Java and Unity Scripting (C Sharp)
+- 🌱 I’m currently learning (C Sharp)
+- 📫 How to reach me Discord: Taze#9126
